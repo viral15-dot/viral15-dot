@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there 👋, I'm Viral!
 
-<!--
-**viral15-dot/viral15-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an engineering student passionate about Python and open-source.  
+🚀 Currently learning Python fundamentals and Git.  
+🎯 Goal: Contribute to open-source and participate in Google Summer of Code.  
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack
+- Python 🐍  
+- Git & GitHub  
+- HTML, CSS (basics)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Current Learning Journey
+- 30-Day Python Roadmap
+- Building small automation projects
+
+## 🌱 Let's Connect
+- [GitHub Profile](https://github.com/viral15-dot)
+
+
+
